@@ -1,0 +1,35 @@
+_repo: Richard-the-Lion-Heart_71283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norgate, Kate
+    birthdate: 1853
+    deathdate: 1935
+    gutenberg_agent_id: '48118'
+    url: http://www.gutenberg.org/2009/agents/48118
+    wikipedia: https://en.wikipedia.org/wiki/Kate_Norgate
+description: ''
+gutenberg_issued: '2023-07-28'
+identifiers:
+  gutenberg: '71283'
+  lccn: '24017983'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000311544
+pgterms:marc905: 20220228181042norgate
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: MWS, John Campbell and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.) Last Edit of Project Info
+publication_note: '  $aUnited Kingdom :$bMacmillan and Co., $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richard I, King of England, 1157-1199'
+- !lcsh 'Great Britain -- Kings and rulers -- Biography'
+- !lcsh 'Great Britain -- History -- Richard I, 1189-1199'
+- !lcc 'DA'
+- GITenberg
+title: Richard the Lion Heart
+url: http://www.gutenberg.org/ebooks/71283
